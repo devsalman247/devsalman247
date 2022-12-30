@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Mern Stack Web Development**
 
-- 👨‍💻 I'm also doing internship in web development at [Metadots](https://metadots.co/)
+- 👨‍💻 I'm also doing part-time job as a full stack web developer at [Metadots](https://metadots.co/)
 
-- 💬 Ask me about **react, node, express and any javascript related issue**
+- 💬 Ask me about **react, node, express, blockchain, web 3.0 and any javascript related issue**
 
 - 📫 How to reach me **salman247.dev@gmail.com**
 
