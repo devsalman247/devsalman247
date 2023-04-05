@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing my bachelors in **Software Engineering**
 
-- 🌱 I’m currently learning **Mern Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 I'm also doing part-time job as a **Full Stack Web Developer** at [Metadots](https://metadots.co/)
 
